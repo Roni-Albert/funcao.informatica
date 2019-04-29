@@ -1,0 +1,9 @@
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain\bin\Debug\netcoreapp2.0\Emprestimos.Domain.deps.json
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain\bin\Debug\netcoreapp2.0\Emprestimos.Domain.dll
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain\bin\Debug\netcoreapp2.0\Emprestimos.Domain.pdb
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain\obj\Debug\netcoreapp2.0\Emprestimos.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain\obj\Debug\netcoreapp2.0\Emprestimos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain\obj\Debug\netcoreapp2.0\Emprestimos.Domain.AssemblyInfoInputs.cache
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain\obj\Debug\netcoreapp2.0\Emprestimos.Domain.AssemblyInfo.cs
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain\obj\Debug\netcoreapp2.0\Emprestimos.Domain.dll
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain\obj\Debug\netcoreapp2.0\Emprestimos.Domain.pdb

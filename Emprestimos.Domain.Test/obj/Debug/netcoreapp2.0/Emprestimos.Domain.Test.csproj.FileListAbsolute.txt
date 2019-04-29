@@ -1,0 +1,14 @@
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\bin\Debug\netcoreapp2.0\Emprestimos.Domain.Test.deps.json
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\bin\Debug\netcoreapp2.0\Emprestimos.Domain.Test.runtimeconfig.json
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\bin\Debug\netcoreapp2.0\Emprestimos.Domain.Test.runtimeconfig.dev.json
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\bin\Debug\netcoreapp2.0\Emprestimos.Domain.Test.dll
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\bin\Debug\netcoreapp2.0\Emprestimos.Domain.Test.pdb
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\obj\Debug\netcoreapp2.0\Emprestimos.Domain.Test.csprojResolveAssemblyReference.cache
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\obj\Debug\netcoreapp2.0\Emprestimos.Domain.Test.csproj.CoreCompileInputs.cache
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\obj\Debug\netcoreapp2.0\Emprestimos.Domain.Test.AssemblyInfoInputs.cache
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\obj\Debug\netcoreapp2.0\Emprestimos.Domain.Test.AssemblyInfo.cs
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\obj\Debug\netcoreapp2.0\Emprestimos.Domain.Test.dll
+C:\Users\Rayane\source\repos\Emprestimos\Emprestimos.Domain.Test\obj\Debug\netcoreapp2.0\Emprestimos.Domain.Test.pdb
